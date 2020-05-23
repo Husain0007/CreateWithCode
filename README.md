@@ -1,7 +1,7 @@
 
 # Create With Code
 
-![ ](https://github.com/Husain0007/Unity-CreateWithCode/blob/master/Images/SplashPage.png "Logo Title Text 1")  
+![ ](https://github.com/Husain0007/CreateWithCode/blob/master/Images/SplashPage.png "Logo Title Text 1")  
 
 The official Unity course for Foundational Game Development.  
 The course is available on the [Unity Learn Platform](https://learn.unity.com/course/create-with-code). 
