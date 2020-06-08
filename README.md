@@ -17,4 +17,8 @@ In this prototype a car prefab takes in user inputs of angular rotation about th
 
 ![ ](https://github.com/Husain0007/CreateWithCode/blob/master/Images/Challenge1.png)
 The **first Challenge** is to develop a prototype of a flight simulator. In this simulator a plane model can be rotated about the Pitch to navigate across a side-scrolling obstacle course.
-As a *Bonus Challenge* the rotar should rotate about the Roll Axis of the plane. 
+As a *Bonus Challenge* the rotar should rotate about the Roll Axis of the plane.  
+
+![ ](https://github.com/Husain0007/CreateWithCode/blob/master/Images/Prototype2.png)  
+
+The **second Prototype** teaches Basic Gameplay programming for a player in 2D space. The goal of this top-down prototype is to throw food at a stampede of animal prefabs charging at the player from random spawn locations in uniform succession. 
