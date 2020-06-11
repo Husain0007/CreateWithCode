@@ -22,3 +22,6 @@ As a *Bonus Challenge* the rotar should rotate about the Roll Axis of the plane.
 ![ ](https://github.com/Husain0007/CreateWithCode/blob/master/Images/Prototype2.png)  
 
 The **second Prototype** teaches Basic Gameplay programming for a player in 2D space. The goal of this top-down prototype is to throw food at a stampede of animal prefabs charging at the player from random spawn locations in uniform succession. 
+
+![ ](https://github.com/Husain0007/CreateWithCode/blob/master/Images/Challenge2.png)
+The **second Challenge** makes use of user input to spawn canines that collect falling balls of different color. The challenge is to ensure the balls spawn at random locations along the Z-axis and that the player ins't able to spam the spawn key by ensuring a spawn only every 3 seconds.
