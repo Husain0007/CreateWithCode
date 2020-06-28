@@ -28,3 +28,6 @@ The **second Challenge** makes use of user input to spawn canines that collect f
 
 ![ ](https://github.com/Husain0007/CreateWithCode/blob/master/Images/Prototype3.png)
 The **third Prototype** is a fast-paced endless side-scrolling runner. The player needs to navigate around obstacle that appear in it's path. In this project I also add sound effects, particle effects, background music, and animation to simulate a prototype that is much closer to an actual launch ready mini-game than any of the previous prototypes.
+
+![-](https://github.com/Husain0007/CreateWithCode/blob/master/Images/Challenge3.png)
+The **third Challenge** is a fast-paced endless runner where the player is ballon with with up and down navigational control. The player ascends up or descends down to avoid bomb prefabs that randomly spawn throughout the playthrough. Coming in contact with the bombs lead to the end of the game followed by an explosion effect. The player also encounters rotation dollar prefabs which on contact trigger another animation and sound effect. The sound and animaiton assets for this prototpe were provided by Unity. 
