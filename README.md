@@ -31,3 +31,6 @@ The **third Prototype** is a fast-paced endless side-scrolling runner. The playe
 
 ![-](https://github.com/Husain0007/CreateWithCode/blob/master/Images/Challenge3.png)
 The **third Challenge** is a fast-paced endless runner where the player is ballon with with up and down navigational control. The player ascends up or descends down to avoid bomb prefabs that randomly spawn throughout the playthrough. Coming in contact with the bombs lead to the end of the game followed by an explosion effect. The player also encounters rotation dollar prefabs which on contact trigger another animation and sound effect. The sound and animaiton assets for this prototpe were provided by Unity. 
+
+![-](https://github.com/Husain0007/CreateWithCode/blob/master/Images/Prototype4.png)
+
