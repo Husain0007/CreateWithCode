@@ -35,3 +35,5 @@ The **third Challenge** is a fast-paced endless runner where the player is ballo
 ![-](https://github.com/Husain0007/CreateWithCode/blob/master/Images/Prototype4.png)
 
 The **fourth Prototype** is a sumo battle arena where the player agent has to roll around on a hexagonal ring and avoid being knocked off by enemy agents. The player has access to powerups that temporarily allows the player to send oncoming enemy agents flying off the platform. After a single wave of enemies has been exhausted a new wave with an increased number of enemies spawns at random locations on the arena. 
+
+![-](https://github.com/Husain0007/CreateWithCode/blob/master/Images/Challenge4.png)
