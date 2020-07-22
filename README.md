@@ -43,4 +43,4 @@ The **fourth Challenge** is to defend a goal post from oncoming enemy agents and
 The **fifth Prototype** has the goal of creating a User Interface around an arcade style game. The game includes 3 difficulty settings, namely, "Easy", "Medium", and "Hard" with increasing frequency of spawning objects. The game spawns 2 types of objects -  balls that have positive scores, and bombs that have negative scores. The game ends when ever the player misses to destroy the ball object. The game can be started from within the UI with the help of a "Restart Button".
 
 ![-](https://github.com/Husain0007/CreateWithCode/blob/master/Images/Challenge5.png)
-
+The **fifth Challenge** is the final assessment in the **Create with Code** Beginners course on game development. In this challenge we have to create a Whack-a-Mole style game using the prefabs given in the Challenges' Asset Folder. This prototype has 3 levels of difficulty, ie; easy, medium, and hard. The player gains points for each food item clicked and loses the game when a skull prefab is clicked. This prototype also works on a timer of 60 seconds.
